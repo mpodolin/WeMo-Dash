@@ -1,0 +1,3 @@
+https://github.com/HalfdanJ/ofxSniffer
+
+sudo chmod o+r /dev/bpf*

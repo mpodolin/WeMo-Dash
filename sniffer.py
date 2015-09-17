@@ -34,7 +34,7 @@ def arp_display(pkt):
 				send_email('michael.podolin@gmail.com',
 							'ulconjejpnpciozs',
 							'mpodolin.shopping@gmail.com',
-							'Wednesday Morning Message',
+							'Wednesday Morning iPhone Message',
 #							'trigger@recipe.ifttt.com',
 #							'#ToggleRoomLights',
 							'This email was send by pushing the dash button.')
